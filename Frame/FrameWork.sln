@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameWork", "FrameWork\FrameWork.csproj", "{66231183-C866-4922-B616-0D3480FDB046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkAutomation", "FrameworkAutomation\FrameworkAutomation.csproj", "{4AC91A23-A016-47DB-A195-D9EAF5EE9857}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66231183-C866-4922-B616-0D3480FDB046} = {66231183-C866-4922-B616-0D3480FDB046}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66231183-C866-4922-B616-0D3480FDB046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66231183-C866-4922-B616-0D3480FDB046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66231183-C866-4922-B616-0D3480FDB046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66231183-C866-4922-B616-0D3480FDB046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC91A23-A016-47DB-A195-D9EAF5EE9857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC91A23-A016-47DB-A195-D9EAF5EE9857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC91A23-A016-47DB-A195-D9EAF5EE9857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC91A23-A016-47DB-A195-D9EAF5EE9857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6BE0AD-B385-4B61-B914-4D2457A613A9}
+	EndGlobalSection
+EndGlobal

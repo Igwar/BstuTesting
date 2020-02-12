@@ -1,0 +1,391 @@
+2019-12-27 18:29:30,098 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Delete location
+2019-12-27 18:29:31,741 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Discard location value
+2019-12-27 18:29:33,122 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:29:33,941 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2019-12-27 18:29:33,942 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error location message
+2019-12-27 18:30:05,372 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:30:07,136 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2019-12-27 18:30:07,138 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2019-12-27 18:30:08,184 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Location has not been selected
+2019-12-27 18:30:41,299 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworldmail.ru
+2019-12-27 18:30:43,529 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworldmail.ru
+2019-12-27 18:30:44,090 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that email input has taken "incorrect" style 
+2019-12-27 18:31:10,557 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: HelloWorld
+2019-12-27 18:31:12,508 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that password input has taken "incorrect" style 
+2019-12-27 18:31:47,599 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first name: Pa$$w0rd
+2019-12-27 18:31:49,566 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following last name: Yaniuk
+2019-12-27 18:31:49,962 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2019-12-27 18:31:50,598 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2019-12-27 18:31:51,286 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2019-12-27 18:31:51,678 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2019-12-27 18:31:52,017 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:31:52,233 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that personal data is valid
+2019-12-27 18:32:25,844 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2019-12-27 18:32:28,155 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2019-12-27 18:32:30,357 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click return date picker
+2019-12-27 18:32:30,746 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select ending date
+2019-12-27 18:32:31,103 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:32:31,484 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2019-12-27 18:32:31,485 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that page transition has happened
+2019-12-27 18:33:03,935 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2019-12-27 18:33:06,356 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2019-12-27 18:33:07,046 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2019-12-27 18:33:07,452 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2019-12-27 18:33:07,783 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:33:07,977 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that first name input has taken "incorrect" style 
+2019-12-27 18:33:08,036 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that last name input has taken "incorrect" style 
+2019-12-27 18:33:32,571 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2019-12-27 18:33:34,817 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2019-12-27 18:33:36,746 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:33:37,214 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2019-12-27 18:33:37,215 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error date message
+2019-12-27 18:38:12,015 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2019-12-27 18:38:12,066 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select existing location
+2019-12-27 18:38:13,189 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:38:18,722 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2019-12-27 18:38:18,724 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Check if page transition has happened
+2019-12-27 18:45:43,244 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Delete location
+2019-12-27 18:46:19,470 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Delete location
+2019-12-27 18:46:21,793 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Discard location value
+2019-12-27 18:46:24,292 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:46:24,738 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2019-12-27 18:46:24,741 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error location message
+2019-12-27 18:46:24,865 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2019-12-27 18:47:13,894 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Delete location
+2019-12-27 18:47:15,483 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully2019-12-27 18:52:47,419 [15] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2019-12-27 18:52:49,690 [15] INFO  FrameWork.Logger [(null)] - Select beginning date
+2019-12-27 18:52:52,048 [15] INFO  FrameWork.Logger [(null)] - Click return date picker
+2019-12-27 18:52:52,570 [15] INFO  FrameWork.Logger [(null)] - Select ending date
+2019-12-27 18:52:53,076 [15] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:52:53,676 [15] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2019-12-27 18:52:53,679 [15] INFO  FrameWork.Logger [(null)] - Verify that page transition has happened
+2019-12-27 18:53:09,300 [15] ERROR FrameWork.Logger [(null)] - Test has failed
+2019-12-27 18:53:10,290 [15] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2019-12-27 18:55:12,385 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2019-12-27 18:55:13,953 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2019-12-27 18:55:15,598 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click return date picker
+2019-12-27 18:55:15,885 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select ending date
+2019-12-27 18:55:16,141 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:55:16,393 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2019-12-27 18:55:16,401 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that page transition has happened
+2019-12-27 18:55:25,420 [NonParallelWorker] ERROR FrameWork.Logger [(null)] - Test has failed
+2019-12-27 18:55:25,421 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2019-12-27 18:57:12,753 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2019-12-27 18:57:15,098 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2019-12-27 18:57:17,285 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:57:18,169 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2019-12-27 18:57:18,198 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error date message
+2019-12-27 18:57:19,895 [NonParallelWorker] ERROR FrameWork.Logger [(null)] - Test has failed
+2019-12-27 18:57:19,896 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2019-12-27 18:59:03,940 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2019-12-27 18:59:06,948 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2019-12-27 18:59:09,197 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click return date picker
+2019-12-27 18:59:09,740 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select ending date
+2019-12-27 18:59:10,476 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 18:59:10,941 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2019-12-27 18:59:10,945 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that page transition has happened
+2019-12-27 18:59:17,666 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2019-12-27 19:00:04,379 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first name: Pa$$w0rd
+2019-12-27 19:00:06,654 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following last name: Yaniuk
+2019-12-27 19:00:06,965 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2019-12-27 19:00:07,619 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2019-12-27 19:00:08,268 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2019-12-27 19:00:08,684 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2019-12-27 19:00:09,043 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 19:00:09,275 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that personal data is valid
+2019-12-27 19:00:10,301 [NonParallelWorker] ERROR FrameWork.Logger [(null)] - Test has failed
+2019-12-27 19:00:10,301 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2019-12-27 19:02:09,721 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 19:02:11,944 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2019-12-27 19:02:11,945 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2019-12-27 19:02:12,045 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Location has not been selected
+2019-12-27 19:02:12,971 [NonParallelWorker] ERROR FrameWork.Logger [(null)] - Test has failed
+2019-12-27 19:02:12,972 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2019-12-27 19:03:28,172 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2019-12-27 19:03:29,772 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2019-12-27 19:03:30,453 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click return date picker
+2019-12-27 19:03:31,952 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select ending date
+2019-12-27 19:03:32,325 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2019-12-27 19:03:32,574 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2019-12-27 19:03:32,576 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that page transition has happened
+2019-12-27 19:04:07,360 [NonParallelWorker] ERROR FrameWork.Logger [(null)] - Test has failed
+2019-12-27 19:04:07,361 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:52:17,791 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Delete location
+2020-01-17 19:52:19,244 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Discard location value
+2020-01-17 19:52:19,997 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:52:21,427 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-17 19:52:21,432 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error location message
+2020-01-17 19:52:21,522 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:52:49,340 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:52:55,843 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-17 19:52:55,850 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-17 19:52:56,882 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Location has not been selected
+2020-01-17 19:52:56,997 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:53:20,123 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworldmail.ru
+2020-01-17 19:53:22,269 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworldmail.ru
+2020-01-17 19:53:22,755 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that email input has taken "incorrect" style 
+2020-01-17 19:53:22,788 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:53:46,993 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: HelloWorld
+2020-01-17 19:53:48,890 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that password input has taken "incorrect" style 
+2020-01-17 19:53:48,970 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:54:12,984 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first name: Pa$$w0rd
+2020-01-17 19:54:14,435 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following last name: Yaniuk
+2020-01-17 19:54:15,041 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2020-01-17 19:54:15,769 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2020-01-17 19:54:16,374 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2020-01-17 19:54:16,756 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2020-01-17 19:54:17,045 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:54:17,305 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that personal data is valid
+2020-01-17 19:54:17,408 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:54:42,713 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-17 19:54:44,265 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-17 19:54:44,377 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click return date picker
+2020-01-17 19:54:45,387 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select ending date
+2020-01-17 19:54:46,434 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:54:48,184 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:55:26,547 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-17 19:55:26,611 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select existing location
+2020-01-17 19:55:31,879 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:55:32,572 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-17 19:55:32,573 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Check if page transition has happened
+2020-01-17 19:55:55,365 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:56:20,433 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-17 19:56:20,502 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select existing location
+2020-01-17 19:56:21,702 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:56:32,259 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-17 19:56:32,261 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Check if page transition has happened
+2020-01-17 19:56:32,582 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:56:57,714 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-17 19:56:59,158 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-17 19:56:59,270 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:57:00,982 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:57:35,036 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Insert following location: Minsk
+2020-01-17 19:57:41,279 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-17 19:57:41,281 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-17 19:57:41,334 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:57:41,617 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Return unavailiable location error message
+2020-01-17 19:57:47,661 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:58:12,179 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Insert following location: Minsk
+2020-01-17 19:58:13,522 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-17 19:58:13,523 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-17 19:58:16,845 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:58:17,865 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Return unavailiable location error message
+2020-01-17 19:58:17,991 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:58:42,965 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2020-01-17 19:58:46,003 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2020-01-17 19:58:46,731 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2020-01-17 19:58:47,125 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2020-01-17 19:58:47,492 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 19:58:47,767 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that first name input has taken "incorrect" style 
+2020-01-17 19:58:47,826 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that last name input has taken "incorrect" style 
+2020-01-17 19:58:47,872 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 19:59:44,969 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-17 19:59:47,114 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-17 19:59:48,770 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 20:00:48,259 [15] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-17 20:03:58,200 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-17 20:04:00,176 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-17 20:04:02,347 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click return date picker
+2020-01-17 20:04:02,829 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select ending date
+2020-01-17 20:04:03,309 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 20:04:03,953 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-17 20:04:03,955 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that page transition has happened
+2020-01-17 20:04:14,985 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-17 20:04:51,353 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-17 20:04:52,903 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-17 20:04:55,244 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-17 20:04:55,978 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-17 20:04:55,980 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error date message
+2020-01-17 20:04:57,091 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 19:45:38,797 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-18 19:45:57,218 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-18 19:45:57,285 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-18 19:45:57,660 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Location has not been selected
+2020-01-18 19:45:57,939 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 20:57:18,092 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworldmail.ru
+2020-01-18 20:57:20,370 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworldmail.ru
+2020-01-18 20:57:21,416 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that email input has taken "incorrect" style 
+2020-01-18 20:57:21,582 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 20:59:41,871 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Delete location
+2020-01-18 20:59:44,474 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Discard location value
+2020-01-18 20:59:45,849 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-18 20:59:46,671 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-18 20:59:46,672 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error location message
+2020-01-18 20:59:46,791 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 21:00:03,458 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-18 21:00:08,555 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-18 21:00:08,557 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-18 21:00:11,398 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Location has not been selected
+2020-01-18 21:00:11,519 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 21:00:27,465 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworldmail.ru
+2020-01-18 21:00:29,847 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworldmail.ru
+2020-01-18 21:00:30,521 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that email input has taken "incorrect" style 
+2020-01-18 21:00:30,560 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 21:00:46,302 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: HelloWorld
+2020-01-18 21:00:48,725 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that password input has taken "incorrect" style 
+2020-01-18 21:00:48,766 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 21:01:04,576 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first name:Pa$$w0rd
+2020-01-18 21:01:07,103 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following last name: Yaniuk
+2020-01-18 21:01:08,005 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2020-01-18 21:01:08,707 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2020-01-18 21:01:09,355 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2020-01-18 21:01:09,835 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2020-01-18 21:01:10,211 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-18 21:01:10,520 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that personal data is valid
+2020-01-18 21:01:10,652 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 21:01:27,697 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-18 21:01:29,873 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-18 21:01:33,054 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click return date picker
+2020-01-18 21:01:33,512 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select ending date
+2020-01-18 21:01:33,938 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-18 21:01:34,285 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-18 21:01:34,287 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that page transition has happened
+2020-01-18 21:01:40,866 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 21:02:00,625 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-18 21:02:00,626 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select existing location
+2020-01-18 21:02:06,859 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-18 21:02:07,997 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-18 21:02:07,999 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Check if page transition has happened
+2020-01-18 21:02:27,224 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 21:02:44,023 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-18 21:02:46,435 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-18 21:02:48,121 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-18 21:02:48,671 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-18 21:02:48,674 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error date message
+2020-01-18 21:02:49,811 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 21:03:07,467 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Insert following location: Minsk
+2020-01-18 21:03:13,440 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-18 21:03:13,441 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-18 21:03:13,518 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-18 21:03:14,010 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Return unavailiable location error message
+2020-01-18 21:03:14,215 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-18 21:03:29,962 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2020-01-18 21:03:32,608 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2020-01-18 21:03:33,340 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2020-01-18 21:03:33,827 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2020-01-18 21:03:34,197 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-18 21:03:34,395 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that first name input has taken "incorrect" style 
+2020-01-18 21:03:34,436 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that last name input has taken "incorrect" style 
+2020-01-18 21:03:34,468 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:10:12,629 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Delete location
+2020-01-20 20:10:14,236 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Discard location value
+2020-01-20 20:10:15,376 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-20 20:10:16,150 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-20 20:10:16,155 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error location message
+2020-01-20 20:10:16,270 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:10:36,741 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-20 20:10:40,755 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-20 20:10:40,757 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-20 20:10:42,416 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Location has not been selected
+2020-01-20 20:10:42,549 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:11:00,535 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworldmail.ru
+2020-01-20 20:11:03,769 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworldmail.ru
+2020-01-20 20:11:05,029 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that email input has taken "incorrect" style 
+2020-01-20 20:11:05,059 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:11:20,099 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: HelloWorld
+2020-01-20 20:11:22,235 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that password input has taken "incorrect" style 
+2020-01-20 20:11:22,256 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:11:37,715 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first name:Pa$$w0rd
+2020-01-20 20:11:38,582 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following last name: Yaniuk
+2020-01-20 20:11:39,341 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2020-01-20 20:11:40,156 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2020-01-20 20:11:40,658 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2020-01-20 20:11:40,972 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2020-01-20 20:11:41,245 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-20 20:11:41,441 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that personal data is valid
+2020-01-20 20:11:41,508 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:11:58,405 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-20 20:12:00,302 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-20 20:12:01,356 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click return date picker
+2020-01-20 20:12:02,644 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select ending date
+2020-01-20 20:12:03,213 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-20 20:12:03,630 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-20 20:12:03,646 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that page transition has happened
+2020-01-20 20:12:09,415 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:12:29,756 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-20 20:12:29,758 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select existing location
+2020-01-20 20:12:32,434 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-20 20:12:35,116 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-20 20:12:35,117 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Check if page transition has happened
+2020-01-20 20:12:46,784 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:13:04,673 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-20 20:13:06,508 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-20 20:13:06,869 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-20 20:13:07,234 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-20 20:13:07,237 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error date message
+2020-01-20 20:13:08,269 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:13:29,252 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Insert following location: Minsk
+2020-01-20 20:13:33,320 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-20 20:13:33,322 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-20 20:13:34,456 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-20 20:13:34,809 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Return unavailiable location error message
+2020-01-20 20:13:34,902 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-20 20:13:50,294 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2020-01-20 20:13:52,161 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2020-01-20 20:13:52,751 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2020-01-20 20:13:53,117 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2020-01-20 20:13:53,448 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-20 20:13:53,689 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that first name input has taken "incorrect" style 
+2020-01-20 20:13:53,721 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that last name input has taken "incorrect" style 
+2020-01-20 20:13:54,420 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:20:17,083 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Delete location
+2020-01-21 15:20:19,823 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Discard location value
+2020-01-21 15:20:20,790 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-21 15:20:21,745 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-21 15:20:21,752 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error location message
+2020-01-21 15:20:21,869 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:20:46,887 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-21 15:20:47,780 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-21 15:20:47,781 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-21 15:20:48,449 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Location has not been selected
+2020-01-21 15:20:48,547 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:21:07,384 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworldmail.ru
+2020-01-21 15:21:08,908 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworldmail.ru
+2020-01-21 15:21:09,478 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that email input has taken "incorrect" style 
+2020-01-21 15:21:09,502 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:21:31,111 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: HelloWorld
+2020-01-21 15:21:32,216 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that password input has taken "incorrect" style 
+2020-01-21 15:21:32,401 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:21:51,989 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first name:Pa$$w0rd
+2020-01-21 15:21:52,869 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following last name: Yaniuk
+2020-01-21 15:21:53,104 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2020-01-21 15:21:53,942 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2020-01-21 15:21:54,431 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2020-01-21 15:21:54,759 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2020-01-21 15:21:55,033 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-21 15:21:55,238 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that personal data is valid
+2020-01-21 15:21:55,352 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:22:20,212 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-21 15:22:20,736 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-21 15:22:21,305 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click return date picker
+2020-01-21 15:22:21,624 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select ending date
+2020-01-21 15:22:21,917 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-21 15:22:22,313 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-21 15:22:22,315 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that page transition has happened
+2020-01-21 15:22:44,826 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:23:17,884 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-21 15:23:17,887 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select existing location
+2020-01-21 15:23:18,434 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-21 15:23:18,779 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-21 15:23:18,781 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Check if page transition has happened
+2020-01-21 15:23:26,740 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:23:48,925 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click pick-up date picker
+2020-01-21 15:23:49,914 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Select beginning date
+2020-01-21 15:23:50,647 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-21 15:23:51,750 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a minute
+2020-01-21 15:23:51,751 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Receive error date message
+2020-01-21 15:23:53,057 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:24:20,457 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Insert following location: Minsk
+2020-01-21 15:24:21,145 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Waiting for a 1 minute
+2020-01-21 15:24:21,147 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that GlobalErrorContainer has appeared on page
+2020-01-21 15:24:23,345 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-21 15:24:24,446 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Return unavailiable location error message
+2020-01-21 15:24:24,496 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
+2020-01-21 15:24:42,943 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: helloworld@mail.ru
+2020-01-21 15:24:44,379 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: helloworld@mail.ru
+2020-01-21 15:24:45,154 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following first password: Pa$$w0rd
+2020-01-21 15:24:45,858 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Enter following confirmed password: Pa$$w0rd
+2020-01-21 15:24:46,284 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Click continue button
+2020-01-21 15:24:46,522 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that first name input has taken "incorrect" style 
+2020-01-21 15:24:46,565 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Verify that last name input has taken "incorrect" style 
+2020-01-21 15:24:46,622 [NonParallelWorker] INFO  FrameWork.Logger [(null)] - Test has been complited successfully
